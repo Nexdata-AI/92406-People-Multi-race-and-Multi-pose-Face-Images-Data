@@ -2,7 +2,7 @@
 
 ## Description
 92,406 People Multi-race and Multi-pose Face Images Data, at least 20 images per person. This data includes Asian race, Caucasian race, black race, brown race and Indians. This data can be used for face recognition and other tasks.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1015?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets?source=Github
 
 
 # Specifications
